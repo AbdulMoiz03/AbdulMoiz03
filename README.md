@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulMoiz
 - 👀 I’m interested in coding and problem solving techniques. My skills are:
       =>Python, =>React, =>JS, =>C++, =>C, =>Java, =>Solidity
-- 🌱 I’m currently learning AI, ML, Cloud Computing and NLP
+- 🌱 I’m currently learning Cloud Computing and NLP
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me through this email: abdulmoizliaqat@gmail.com 
 - ⚡ Fun fact: ...
